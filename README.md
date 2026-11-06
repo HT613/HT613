@@ -8,7 +8,7 @@ I’m Henry Tran (@HT613). As of writing this README, I am a senior in college m
 
 ### Cybersecurity
 
-Being a cybersecurity major, I nerd out for many things cyber. Forensics, Administration, and (a little) Ethical Hacking are my biggest domains of interest.
+Being a cybersecurity major, I nerd out for many things cyber. Forensics, Administration, and (a little) Ethical Hacking are my biggest domains of interest. I have previous experience competing in Cybersecurity Competitions, and have set up a personal home lab to experiment.
 
 ### Coding and General Scripting
 
@@ -16,7 +16,7 @@ Based on the fundamental knowledge from my coding and scripting classes, I try t
 
 ## What do I post here?
 
-Finished Projects, incomplete projects, pdf resources... I aspire to keep a relatively active page that tracks with my learning journey.
+Finished Projects, incomplete projects, pdf resources... I aspire to keep a relatively active page that tracks with my learning journey. Feel free to reach out to me on Linkedin to connect!
 
 *P.S.: Talk to me about Warhammer and Beastars*
 ```
