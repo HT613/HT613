@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Henry Tran (@HT613)
+## Greetings, and welcome to my profile :D
+- 👋 I’m Henry Tran (@HT613)
 - 👀 I’m interested in Cybersecurity and the code that backs the field
 - 🌱 I’m currently learning Applied Cybersecurity and IT
 - 💞️ I’m looking to collaborate on HTML, Java, Python
